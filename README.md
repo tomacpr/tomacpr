@@ -13,13 +13,13 @@
          -  ✅ - Inheritance
     - 🔵Spring Boot
     - 🔵Spring Data JPA
-    - 🟡Spring Security
+    - 🔴Spring Security
     - 🟡Bash / Cmder
     - ✅Git & Github 
-       - learned the essentials to be comfortable with Git & GitHub: ► commits; ► branches; ► push; ► rebase; ► merge; ► Pull Requests
+       - learned the essentials to be comfortable with Git: ► commits; ► branches; ► push; ► rebase; ► merge; ► pull requests
     - 🔵Docker
        - learned docker in a practical way by understanding how docker works and how to run multiple docker containers
-       - I also learned docker volumes, dockerfile, docker logging, docker registry
+       - I also learned docker volumes, dockerfile, dockerignore, docker logging, docker registry, caching and layers
     - ⚫Kubernetes
     - ⚫PostgreSQL
     
