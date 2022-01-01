@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomacpr
 - 👀 I’m interested in ...
-- 🖥️ WI use for coding: VSCode & InteliJ
+- 🖥️ What I use for coding: Cmder, InteliJ, VSCode
 - 🌱 I’m currently learning:
     - Java
       - Core
