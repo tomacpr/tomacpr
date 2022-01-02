@@ -1,32 +1,34 @@
-- 👋 Hi, I’m @tomacpr
+- 👋 Hi, I’m <b>@tomacpr</b>
 - 👀 I’m interested in ...
-- 🖥️ What I use for coding: Cmder, InteliJ, VSCode
+- 🖥️ What I use for coding: <b>Cmder, InteliJ, VSCode</b>
 - 🌱 I’m currently learning:
-    - Java
-      - Core
-          - ✅ - working with files
-          - ✅ - Interfaces
-          - ✅ - OOP
-          - ✅ - Variables
-          - ✅ - Classes
-          - ✅ - Loops
-         -  ✅ - Inheritance
-    - 🔵Spring Boot
-    - 🔵Spring Data JPA
-    - 🔴Spring Security
-    - 🟡Bash / Cmder
-    - ✅Git & Github 
+    - 🟡<b>Java</b>
+        - 🟢<b>Core</b>: <br>
+        ► Working with files✅; <br>
+        ► Interfaces✅; <br>
+        ► OOP✅; <br>
+        ► Variables✅; <br>
+        ► Classes✅; <br>
+        ► Loops✅; <br>
+        ► Inheritance🔵 <br>
+    - 🔵<b>Spring Boot</b>
+    - 🔵<b>Spring Data JPA</b>
+    - ⚫<b>Spring Security</b>
+    - 🔴<b>Bash / Cmder</b>
+    - ✅<b>Git & Github</b>
        - learned the essentials to be comfortable with Git: ► commits; ► branches; ► push; ► rebase; ► merge; ► pull requests
-    - 🔵Docker
+    - 🟡<b>Docker</b>
        - learned docker in a practical way by understanding how docker works and how to run multiple docker containers
        - I also learned docker volumes, dockerfile, dockerignore, docker logging, docker registry, caching and layers
-    - ⚫Kubernetes
-    - ⚫PostgreSQL
+    - ⚫<b>Kubernetes</b>
+    - ⚫<b>PostgreSQL</b>
     
+<!--- 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
+--->
 
-Legend: ✅ - complete 🔵 - beginner knowledge 🟡 - in progress 🔴 - just started ⚫ - planned
+<b>Legend:</b> ✅ - complete  🔵 - good knowledge  🟡 - beginner knowledge  🔴 - in progress  ⚫ - planned
 
 <!---
 tomacpr/tomacpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
