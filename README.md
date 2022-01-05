@@ -16,7 +16,8 @@
         - learned docker in a practical way by understanding how docker works and how to run multiple docker containers
         - I also learned docker volumes, dockerfile, dockerignore, docker logging, docker registry, caching and layers
     - 🔴<b>Kubernetes</b>
-    - 🔴<b>PostgreSQL</b>
+    - 🟡<b>SQL with PostgreSQL</b>
+        - everything I need to know to get started with databases 
     
 <!--- 
 - 💞️ I’m looking to collaborate on ...
